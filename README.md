@@ -2,6 +2,8 @@
 
 Adds the WarpBox from Super Mario 3D World.
 
+*This object is work in progress. It is fully functional right now, but new features will be added in the future.*
+
 ## Effects
 Before using the Warp Box, make sure to import this effect using pygapa:
 ```json
